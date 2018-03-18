@@ -25,8 +25,8 @@
         </div>
     </div>    
 
-    <footer id="footer" class="text-center fixed-bottom">
+    <!-- <footer id="footer" class="text-center fixed-bottom">
         <p> Copyright 2017 &copy; Basic</p>
-    </footer>
+    </footer> -->
 </body>
 </html>
